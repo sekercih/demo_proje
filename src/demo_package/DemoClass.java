@@ -6,6 +6,8 @@ public class DemoClass {
 
 System.out.println("ilk commit local repositoryden");
 
+System.out.println("ilk commit remote repositoryden");
+
 	}
 
 }
